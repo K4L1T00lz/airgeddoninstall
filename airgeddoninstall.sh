@@ -1,0 +1,1 @@
+wget https://github.com/v1s1t0r1sh3r3/airgeddon/archive/master.zip && unzip master.zip && wget https://raw.githubusercontent.com/K4L1T00lz/airgeddoninstall/main/airgeddon.sh && sudo mv airgeddon-master /opt && sudo mv airgeddon.sh /usr/bin/airgeddon && sudo chmod +x /usr/bin/airgeddon
